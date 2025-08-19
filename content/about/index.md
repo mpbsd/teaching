@@ -1,8 +1,8 @@
-+++
-title = 'About'
-date = 2025-08-18T21:34:37-03:00
-draft = false
-+++
+---
+title: 'About'
+date: 2025-08-18T21:34:37-03:00
+draft: false
+---
 
 ## Research Interests
 

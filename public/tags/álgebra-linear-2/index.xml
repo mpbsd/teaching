@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Álgebra Linear on Marcelo Bezerra Barboza</title>
-    <link>http://localhost:1313/teaching/tags/%C3%A1lgebra-linear/</link>
-    <description>Recent content in Álgebra Linear on Marcelo Bezerra Barboza</description>
+    <title>Álgebra Linear 2 on Marcelo Bezerra Barboza</title>
+    <link>http://localhost:1313/teaching/tags/%C3%A1lgebra-linear-2/</link>
+    <description>Recent content in Álgebra Linear 2 on Marcelo Bezerra Barboza</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 18 Aug 2025 21:48:23 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/teaching/tags/%C3%A1lgebra-linear/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teaching/tags/%C3%A1lgebra-linear-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Álgebra Linear 2</title>
       <link>http://localhost:1313/teaching/posts/algebra-linear-2/</link>

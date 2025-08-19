@@ -7,8 +7,13 @@ pagination.pagerSize = 5
   [caches.images]
     dir = ':cacheDir/images'
 
-[markup.highlight]
-  noClasses = false
+[markup]
+  [highlight]
+    noClasses = false
+  [goldmark.renderHooks.image]
+    enableDefault = true
+  [goldmark.renderHooks.link]
+    enableDefault = true
 
 [params]
   contentTypeName = "posts"
