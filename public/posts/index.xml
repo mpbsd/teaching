@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Marcelo Bezerra Barboza</title>
+    <link>http://localhost:1313/teaching/posts/</link>
+    <description>Recent content in Posts on Marcelo Bezerra Barboza</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Aug 2025 21:48:23 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/teaching/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Álgebra Linear 2</title>
+      <link>http://localhost:1313/teaching/posts/algebra-linear-2/</link>
+      <pubDate>Mon, 18 Aug 2025 21:48:23 -0300</pubDate>
+      <guid>http://localhost:1313/teaching/posts/algebra-linear-2/</guid>
+      <description>Slides Domínios Euclidianos </description>
+    </item>
+    <item>
+      <title>Fundamentos de Matemática</title>
+      <link>http://localhost:1313/teaching/posts/fundamentos-de-matematica/</link>
+      <pubDate>Mon, 18 Aug 2025 21:39:01 -0300</pubDate>
+      <guid>http://localhost:1313/teaching/posts/fundamentos-de-matematica/</guid>
+      <description>Slides Fundamentos de Lógica </description>
+    </item>
+  </channel>
+</rss>
