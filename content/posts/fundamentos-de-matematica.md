@@ -9,4 +9,5 @@ hideComments: false
 
 ## Slides
 
-- [Fundamentos de Lógica](docs/propositions.pdf)
+- [Proposições](docs/propositions.pdf)
+- [Funções Proposicionais](docs/propositional_functions.pdf)
