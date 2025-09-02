@@ -9,5 +9,4 @@ hideComments: false
 
 ## Slides
 
-- [Domínios Euclidianos](https://ufg.br/)
-- [Polinômio minimal]()
+- [Lista 1](docs/lista_01_al2.pdf)
