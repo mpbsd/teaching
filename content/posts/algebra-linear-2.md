@@ -7,6 +7,6 @@ readingTime: false
 hideComments: false
 ---
 
-## Slides
+## Listas
 
 - [Lista 1](docs/lista_01_al2.pdf)
