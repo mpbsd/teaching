@@ -12,3 +12,4 @@ hideComments: false
 - [Proposições](docs/propositions.pdf)
 - [Funções Proposicionais](docs/propositional_functions.pdf)
 - [Tipos de Demonstração](docs/types_of_demonstration.pdf)
+- [Exercícios acerca de funções](docs/lista_de_exercicios_do_professor_gregory.pdf)
