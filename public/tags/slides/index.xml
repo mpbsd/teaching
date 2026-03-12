@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Courses on Marcelo Bezerra</title>
-    <link>http://localhost:1313/teaching/course/</link>
-    <description>Recent content in Courses on Marcelo Bezerra</description>
+    <title>Slides on Marcelo Bezerra</title>
+    <link>http://localhost:1313/teaching/tags/slides/</link>
+    <description>Recent content in Slides on Marcelo Bezerra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/teaching/course/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teaching/tags/slides/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cálculo 1</title>
       <link>http://localhost:1313/teaching/course/c1/slides/</link>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/course/c1/slides/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/teaching/C1/01.pdf&#34;&gt;01&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/teaching/C1/01.pdf&#34;&gt;01&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

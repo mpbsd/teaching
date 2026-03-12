@@ -6,21 +6,21 @@
     <description>Recent content on Marcelo Bezerra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 10:07:58 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/teaching/course/c1/test/</link>
-      <pubDate>Thu, 12 Mar 2026 10:07:58 -0300</pubDate>
-      <guid>http://localhost:1313/teaching/course/c1/test/</guid>
-      <description>&lt;p&gt;[Test]({{ C1A/01.pdf }})&lt;/p&gt;&#xA;\[&#xA;\iint_{M}K\,d\sigma&#xA;\]</description>
-    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/teaching/about/</link>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/teaching/about/</guid>
       <description>&lt;h2 id=&#34;address&#34;&gt;Address&lt;/h2&gt;&#xA;&lt;p&gt;Universidade Federal de Goiás&lt;br&gt;&#xA;Instituto de Matemática e Estatística&lt;br&gt;&#xA;Campus Samambaia - R. Jacarandá - Chácaras Califórnia&lt;br&gt;&#xA;Goiânia - Goiás&lt;br&gt;&#xA;Zip Code: 74.001-970&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;EMail: bezerra [ at ] ufg [ dot ] br&lt;/li&gt;&#xA;&lt;li&gt;ORCID: 0000-0003-4258-4676&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Differential Geometry&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Cálculo 1</title>
+      <link>http://localhost:1313/teaching/course/c1/slides/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/course/c1/slides/</guid>
+      <description>&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/teaching/C1/01.pdf&#34;&gt;01&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

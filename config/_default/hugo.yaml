@@ -27,7 +27,7 @@ menu:
       url: "index.xml"
 params:
   description: "Teaching"
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [BlueSky](https://bsky.app/profile/yihui.org)"
+  footer: "&copy; [MPBSD](https://yihui.org) {Year} | [Github](https://github.com/mpbsd)"
 markup:
   highlight:
     codeFences: false
