@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses on Marcelo Bezerra</title>
+    <link>http://localhost:1313/teaching/course/</link>
+    <description>Recent content in Courses on Marcelo Bezerra</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2026 10:07:58 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/teaching/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/teaching/course/c1/test/</link>
+      <pubDate>Thu, 12 Mar 2026 10:07:58 -0300</pubDate>
+      <guid>http://localhost:1313/teaching/course/c1/test/</guid>
+      <description>&lt;p&gt;[Test]({{ C1A/01.pdf }})&lt;/p&gt;&#xA;\[&#xA;\iint_{M}K\,d\sigma&#xA;\]</description>
+    </item>
+  </channel>
+</rss>

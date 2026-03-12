@@ -2,30 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/teaching/tags/%C3%A1lgebra-linear-2/</loc>
-    <lastmod>2025-08-18T21:48:23-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/teaching/posts/algebra-linear-2/</loc>
-    <lastmod>2025-08-18T21:48:23-03:00</lastmod>
+    <loc>http://localhost:1313/teaching/course/</loc>
+    <lastmod>2026-03-12T10:07:58-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/</loc>
-    <lastmod>2025-08-18T21:48:23-03:00</lastmod>
+    <lastmod>2026-03-12T10:07:58-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/teaching/posts/</loc>
-    <lastmod>2025-08-18T21:48:23-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/teaching/tags/</loc>
-    <lastmod>2025-08-18T21:48:23-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/teaching/posts/fundamentos-de-matematica/</loc>
-    <lastmod>2025-08-18T21:39:01-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/teaching/tags/fundamentos-de-matem%C3%A1tica/</loc>
-    <lastmod>2025-08-18T21:39:01-03:00</lastmod>
+    <loc>http://localhost:1313/teaching/course/c1/test/</loc>
+    <lastmod>2026-03-12T10:07:58-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/about/</loc>
-    <lastmod>2025-08-18T21:34:37-03:00</lastmod>
+    <lastmod>2026-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/teaching/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/teaching/tags/</loc>
   </url>
 </urlset>
