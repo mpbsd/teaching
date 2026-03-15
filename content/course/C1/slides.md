@@ -9,4 +9,4 @@ tags:
 
 ## Slides
 
-- [01](C1/01.pdf)
+- [Limites](C1/06.pdf)
